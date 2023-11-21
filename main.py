@@ -15,3 +15,7 @@ with col2:
     """
     st.info(content)
     #st.write(content)
+content2 = """
+Bellow you can find some or my works
+"""
+st.write(content2)
