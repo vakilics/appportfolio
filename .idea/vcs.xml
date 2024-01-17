@@ -6,5 +6,6 @@
     <mapping directory="$PROJECT_DIR$/ToDoWebApp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/appportfolio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/companyweb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pdfmakerapp" vcs="Git" />
   </component>
 </project>
