@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonGUI.iml" filepath="$PROJECT_DIR$/.idea/PythonGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/companywebapp/.idea/companywebapp.iml" filepath="$PROJECT_DIR$/companywebapp/.idea/companywebapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdf-template-app/.idea/pdf-template-app.iml" filepath="$PROJECT_DIR$/pdf-template-app/.idea/pdf-template-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdfmakerapp/.idea/pdfmakerapp.iml" filepath="$PROJECT_DIR$/pdfmakerapp/.idea/pdfmakerapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../app-portfolio/pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../../app-portfolio/pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>

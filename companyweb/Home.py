@@ -2,9 +2,11 @@ import streamlit as st
 import pandas
 
 st.set_page_config(layout="wide")
-st.title("Compay web")
-st.write("Here will be the company description...")
-st.subheader("The Team")
+st.title(":blue[Company web]")
+st.write("""
+Here will be the company description...""")
+
+st.subheader(":blue[The Team]")
 col1, col2, col3 = st.columns(3)
 df = pandas.read_csv("data.csv")
 with col1:
